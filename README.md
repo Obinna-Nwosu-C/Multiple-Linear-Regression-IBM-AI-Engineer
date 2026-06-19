@@ -76,7 +76,7 @@ This is not an error; it is a fundamental concept in machine learning.
 Engine size and MPG are highly correlated (bigger engines usually get worse gas mileage). Because they share overlapping information, the Multiple Linear Regression model "splits" the predictive weight between them to avoid double-counting. 
 This demonstrates how Multiple Linear Regression isolates the unique contribution of each feature.
 
-Course Participant/Code Executor: Obinna Nwosu C
-Author: Jeff Grossman
-Other Contributor(s): Abhishek Gagneja
+Course Participant/Code Executor: Obinna Nwosu C, 
+Author: Jeff Grossman, 
+Other Contributor(s): Abhishek Gagneja, 
 © IBM Corporation. All rights reserved.
